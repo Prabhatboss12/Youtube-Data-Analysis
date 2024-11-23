@@ -12,7 +12,7 @@ This project aims to securely manage, streamline, and perform analysis on the st
 5. Cloud — We can’t process vast amounts of data on our local computer so we need to use the cloud, in this case, we will use AWS
 6. Reporting — Built a dashboard to get answers to the question we asked earlier
 
-## Services we will be using
+## Services that were used
 1. Amazon S3: Amazon S3 is an object storage service that provides manufacturing scalability, data availability, security, and performance.
 2. AWS IAM: This is nothing but identity and access management which enables us to manage access to AWS services and resources securely.
 3. QuickSight: Amazon QuickSight is a scalable, serverless, embeddable, machine learning-powered business intelligence (BI) service built for the cloud.
